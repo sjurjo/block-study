@@ -1,0 +1,57 @@
+---
+title: "The Block Periodization study"
+format: html
+---
+
+## Method
+
+### Participant  
+Thirty soldiers (age, weight, height) from the third year at the Norwegian Defence Cyber Academy volunteered for the study, which was approved by the local Ethics Committee at Lillehammer University College and Data Inspectorate. Written informed consent was obtained from all participants prior to inclusion, and the study was carried out in accordance with the Declaration of Helsinki. Participants were den randomized by VO2max and 1RM leg press and allocated to block training group (BP, n=15) and traditional training group (TG, n=15). There was no difference between the groups characteristics at baseline (table, 1RM, VO2, lean body mass?).
+Four participants dropped out during the study due to lack of motivation and sickness. From these persons, two of these were excluded from the analysis because of not completing the mid-term test.
+Explicitly describe soldiers n=17 and students n=13?  
+
+### Experimental design  
+
+The participants performed 13 weeks of heavy resistance training and high intensity endurance training. Two weeks before baseline, familiarization of the tests were conducted. Three test time points were executed and were; one week before training intervention started baseline characteristic were measured (pre-test, -1wk); following five weeks initial training adaptations were identified by a mid-test; and final training adaptations were measured following 13 weeks of training (post-test). Both groups trained heavy strength training and high intensity training with equal amount of sessions (24 sessions) throughout the study only differed by the training organization. TG trained two session of each training modality throughout the study. BP changed training stimuli every other week meaning that three sessions of either strength or endurance in one week was vice versa the following week. In conjunction a maintenance session with opposite training stimuli was performed. In week nine and ten BP had focus of one of the training modality only: four sessions of endurance followed by four sessions of strength training. In week three and six were there one session of each training modality and in week 12 both groups trained two sessions of each training modality to normalize training specific cellular mechanism before performing the final post-test (table ?).
+
+Diet  
+
+Endurance  
+
+### Training
+
+Strength training was performed as daily undulating program were RM was varying between days/sessions. Five first weeks the participants trained 12, 10 and 8 RM. Weeks six to nine they trained 10, 8, 6 RM and in final week 10 to 13 they trained 8, 6, 4 RM. There was always performed three sets. A whole body strength training program with seven exercises pursuing the large muscle groups, which are important for performing soldiers daily tasks, were performed in the following order, squat, leg press, supine leg curl, seated pull down, military shoulder press and biceps curl. They were allowed help on the last repetition and were told to increase the training load to progress throughout the intervention. A strength diary kept control of training load and progression as well as qualified instructors secured technique and progression. 
+To secure maximal muscle protein synthesis and training effect the participants ingested protein supplementation of 0.27 g/kg following each strength training session (Whey protein company).
+
+
+HIT was performed as 4 x 5 min the first five weeks and progressed to 5 x 5 min the remaining weeks.  The HIT was performed in a 2.1 km out door round-track with varying terrain (gravel road/trail, small up/down hills).  They started out at the same starting point for each interval and was instructed to sustain an intensity corresponding to 90% of HRmax and 16-20 on Borg scale. Each participant was equipped with a clock (Polar, something?) monitoring heart rate frequency that the investigators used to monitor correct intensity along with Borg scale received from the participant at the end of each interval. This was noted and thereby a possibility to secure quality and progression. By four occasions lactate (four sessions, check up on dates ?) was drawn from the fingertip to secure that the intensity was equal within and between intervals sessions throughout the intervention. Furthermore, were they instructed to always trying to increase the running distance for each interval. Trained personnel secured progression and quality during the HIT session.
+
+
+Every participant had a polar watch.
+
+To control for other activities during the intervention a manual diary was full fielded by the participant containing hours of activity, intensity, core training. Furthermore, was a nutritional diary performed in week 7 and 8 where they conducted four days (on weekend day and three week days) of weighting and noting every meal.
+
+
+## Statistics
+
+
+
+## Results
+
+## Discussion
+
+-	Moderately trained or actual recreationally trained resulting in equal adaptations between groups
+-	Organization of block training within the weeks, reducing the stimuli,  optimization of quality and stimuli in HIT sessions especial
+-	Overreaching? Restitution between sessions, especial when they are performed the following day. Total load -> mental stress -> attenuated physiological adaptations
+-	Differences between soldiers and students, run this analysis to investigate adaptations
+-	More sessions up to five, would have increased training stimuli. However, not in this group though sine training status is low. No time for mistakes, sickness or so on. Had to fit every session out of weekends.
+-	Have they actually reached their true % of VO2max as % of HR max? under estimated=? (consideration in Bishop?). Should have been reconsidered throughout the intervention, adjusted as the relative training intensity is reduced due to participants’ fitness improved (in granata 2019, p 4)
+-	
+
+
+Limitation
+-	Weekly training organization – three sessions in a row, not possible due to fit some of the sessions had to be conducted within school schedule/time, time sparing and motivation to continue?
+-	Acute effects, say something about interference effect. Should had more control groups. Biopsy?
+
+
+
